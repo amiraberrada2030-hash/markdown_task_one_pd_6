@@ -20,4 +20,6 @@ Here's a quick look at what I use
 3. Always **back up your files!**
 ---
 ## My Favorite Command 
-`git add .` - this command saves all my photo projects 
+`git add .` - this command saves all my photo projects
+
+![hijabi girl](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFoe2xh6WIAR0bL2Sv8U-W7yml-OUcPgwVk018aBM1jA&s=10)
